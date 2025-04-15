@@ -149,7 +149,6 @@ namespace hat {
 
             template<scan_mode mode = scan_mode::Auto>
             static constexpr scan_context create(signature_view signature, scan_alignment alignment, scan_hint hints);
-        private:
             scan_context() = default;
         };
 
