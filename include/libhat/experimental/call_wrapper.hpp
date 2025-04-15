@@ -2,6 +2,7 @@
 
 #include <new>
 #include <utility>
+#include <intrin.h>
 
 #include "../concepts.hpp"
 #include "../defines.hpp"
